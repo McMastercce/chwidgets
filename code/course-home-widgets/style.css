@@ -2,7 +2,7 @@
 h1.welcome {
 	position:relative;
 	color:#FFF;
-	margin:-5px 0 10px 0 !important;
+	margin:-5px 0 -5px 0 !important;
 	line-height: 45px;
 	font-family: "verdana", sans-serif !important;
 	font-size:16px !important;
