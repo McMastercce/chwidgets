@@ -5,7 +5,7 @@ h1.welcome {
 	margin:-5px 0 -10px 0 !important;
 	line-height: 45px;
 	font-family: "verdana", sans-serif !important;
-	font-size:16px !important;
+	font-size:1.1em !important;
 }
 
 h1.coursename {
@@ -17,7 +17,7 @@ h1.coursename {
 	font-size:16px !important;
 }
 .large {
-	font-size:23px !important;
+	font-size:1.4em !important;
 	font-weight:normal;
 }
 .shadow {
